@@ -1,3 +1,3 @@
 # SimpleBashUtils
-Реализация утилит cat и grep \n
-Переключитесь на develop
+## Реализация утилит cat и grep
+## Переключитесь на develop
